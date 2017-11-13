@@ -1,0 +1,16 @@
+
+table{
+    border: 1px solid;    
+ }
+ 
+ tr,td{ 
+     border: 1px solid;  
+     padding: 1%;  
+ }
+
+
+
+ td,th{
+    border: 2px solid gray;
+    padding: 1%; 
+ }
